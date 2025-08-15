@@ -20,7 +20,7 @@ const Header = () => {
           <div className="flex items-center">
             <div className="flex items-center">
               <img 
-                src="/src/images/Logo.png" 
+                src="/Logo.png" 
                 alt="Verdant Value Ventures" 
                 className="h-14 w-auto"
               />
